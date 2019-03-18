@@ -15,7 +15,7 @@ Example 1. Single Object:
     * run LE_main SO.m   
     * For argument options, please see LE_main SO.m  
     
-Example 2. Turning Table: 
+Example 2. Turning Table:  
     * run LE_main_TT.m   
     * For argument options, please see LE_main_TT.m   
 
