@@ -33,7 +33,8 @@ Example 2. Turning Table:
 
 The neural data were collected through the Neural Processing System (Blackrock Microsystems, Salt Lake City, UT) with the 
 sampling frequency of 30 kHz and the bandpass filters with the bandwidth of 250 Hz - 7.5 kHz. As a validation, we extracted one-day   data. After the spike count matrix S was generated, we import it into the LE method and reduced its dimensionality to three.  
-Here are the visualization of the dataset processing results:
+Here are the visualization of the dataset processing results:  
+![](https://github.com/EveyZhang/Spike-Dimensionality-Reduction-by-Laplacian-Eigenmaps/blob/master/image.png)
  
 
 ## Validation Codes
