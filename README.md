@@ -10,14 +10,15 @@ We provide effective dimensionality reduction for visualizing neural dynamics by
 * Download、clone the git repository of the codes  
 * Open Matlab and set the Github folder as the current folder in Matlab  
 * laplacian_eigen.m file is the main function of dimensionality reduction algorithm by laplacian eigenmaps. 
-There are two examples in the validation folder.   
+There are two examples in the validation folder. 
+
 Example 1. Single Object:     
     * run LE_main SO.m   
-    * For argument options, please see LE_main SO.m  
+    * For argument options, please see LE_main SO.m   
     
-Example 2. Turning Table:  
-    * run LE_main_TT.m   
-    * For argument options, please see LE_main_TT.m   
+Example 2. Turning Table:
+	* run LE_main_TT.m   
+	* For argument options, please see LE_main_TT.m   
 
 ### Key Parameters:
 
